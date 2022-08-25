@@ -6,4 +6,7 @@ public class text{
   public void login(){
   
   }
+  public void signUp(){
+  System.out.println("enter your user name");
+  }
 }
