@@ -4,6 +4,9 @@ public class text{
   
   }
   public void login(){
+  //login with otp
+  }
+  public void signUp(){
   
   }
 }
